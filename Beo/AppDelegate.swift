@@ -4,7 +4,6 @@
 //
 //  Created by Eanna Boland on 20/02/2017.
 //  Copyright © 2017 Eanna Boland. All rights reserved.
-//  Credit to Tommy Mitchell, taught me everything I know.
 //
 
 import UIKit
